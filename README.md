@@ -19,13 +19,12 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
  * Bir banka uygulaması için rest api dizayn etmeniz istenmektedir.
 
 ### Görev 1
-* Veri tabanı dizaynınız şu şekilde olmalı. Toplam 4 tablo yazmanız gerekmektedir.
+* Veri tabanı dizaynınız şu şekilde olmalı. Toplam 3 tablo yazmanız gerekmektedir.
 * ```category``` tablosu => (id, name) kolonlarından oluşmalı.
 * ```author``` tablosu => (id, first_name, last_name) bilgilerini içermeli.
 * ```book``` tablosu => (id, name) bilgilerini içermeli.
 * Bir kitabın sadece bir kategorisi olabilir. Ancak bir kategoride birçok kitap olabilir.
 * Bir kitabın bir yazarı olabilir. Aynı şekilde bir yazar birçok kitap yazabilir
-* 4.tablo ne olmalı kararını sen vermelisin.
 
 
  ### Görev 2
