@@ -24,7 +24,7 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
 * ```author``` tablosu => (id, first_name, last_name) bilgilerini içermeli.
 * ```book``` tablosu => (id, name) bilgilerini içermeli.
 * Bir kitabın sadece bir kategorisi olabilir. Ancak bir kategoride birçok kitap olabilir.
-* Bir kitabın birçok yazarı olabilir. Aynı şekilde bir yazar birçok kitap yazabilir
+* Bir kitabın bir yazarı olabilir. Aynı şekilde bir yazar birçok kitap yazabilir
 * 4.tablo ne olmalı kararını sen vermelisin.
 
 
